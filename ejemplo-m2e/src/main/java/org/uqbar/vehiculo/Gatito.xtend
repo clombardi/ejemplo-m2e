@@ -6,6 +6,6 @@ class Gatito {
 	@Accessors String nombre
 	
 	def nombreCompleto() {
-		nombre + ", el gatito lindo"
+		nombre + ", el gatito muy lindo"
 	}
 }
